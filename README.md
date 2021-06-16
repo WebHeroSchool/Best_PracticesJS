@@ -1,4 +1,4 @@
-# Best_PracticesJS
+# *JavaScript best practices*
 
 ## Переменные, объекты.
 
